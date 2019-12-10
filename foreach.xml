@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Grouper0 margin="10.0" type="G3">
+  <foreach id="1">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Afghanistan" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="2">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Albania" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="3">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Algeria" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="4">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Angola" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="5">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Antigua and Barbuda" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="6">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Argentina" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="7">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Armenia" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="8">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Australia" size="10" size_name=""/>
+        <sphere filter="on" size="5" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="9">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Austria" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="10">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Azerbaijan" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="11">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="The Bahamas" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="12">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Bahrain" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="13">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Bangladesh" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="14">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Barbados" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="15">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Belarus" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="16">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Belgium" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="17">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Belize" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="18">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Benin" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="19">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Bhutan" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="20">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Bolivia" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="21">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Bosnia and Herzegovina" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="22">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Botswana" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="23">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Brazil" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="24">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Brunei Darussalam" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="25">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Bulgaria" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="26">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Burkina Faso" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="27">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Burundi" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="28">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Cabo Verde" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="29">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Cambodia" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="30">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Cameroon" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="31">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Canada" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="32">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Central African Republic" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="33">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Chad" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="34">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Chile" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="35">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="China" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="36">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Colombia" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="37">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Comoros" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="38">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Democratic Republic of the Congo" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="39">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Republic of Congo" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="40">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Costa Rica" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="41">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Cote d'Ivoire" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="42">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Croatia" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="43">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Cyprus" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="44">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Czech Republic" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="45">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Denmark" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="46">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Djibouti" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="47">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Dominica" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="48">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Dominican Republic" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="49">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Ecuador" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="50">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Egypt" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="51">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="El Salvador" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="52">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Equatorial Guinea" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="53">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Eritrea" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="54">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Estonia" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="55">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Ethiopia" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="56">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Fiji" size="10" size_name=""/>
+        <sphere filter="on" size="5" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="57">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Finland" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="58">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="France" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="59">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Gabon" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="60">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="The Gambia" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="61">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Georgia" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="62">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Germany" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="63">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Ghana" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="64">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Greece" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="65">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Grenada" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="66">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Guatemala" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="67">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Guinea" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="68">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Guinea-Bissau" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="69">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Guyana" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="70">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Haiti" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="71">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Honduras" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="72">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Hong Kong SAR" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="73">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Hungary" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="74">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Iceland" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="75">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="India" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="76">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Indonesia" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="77">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Islamic Republic of Iran" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="78">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Iraq" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="79">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Ireland" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="80">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Israel" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="81">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Italy" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="82">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Jamaica" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="83">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Japan" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="84">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Jordan" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="85">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Kazakhstan" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="86">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Kenya" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="87">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Kiribati" size="10" size_name=""/>
+        <sphere filter="on" size="5" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="88">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Korea" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="89">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Kosovo" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="90">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Kuwait" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="91">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Kyrgyz Republic" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="92">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Lao P.D.R." size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="93">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Latvia" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="94">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Lebanon" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="95">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Lesotho" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="96">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Liberia" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="97">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Libya" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="98">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Lithuania" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="99">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Luxembourg" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="100">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Macao SAR" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="101">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="FYR Macedonia" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="102">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Madagascar" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="103">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Malawi" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="104">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Malaysia" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="105">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Maldives" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="106">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Mali" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="107">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Malta" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="108">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Marshall Islands" size="10" size_name=""/>
+        <sphere filter="on" size="5" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="109">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Mauritania" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="110">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Mauritius" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="111">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Mexico" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="112">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Micronesia" size="10" size_name=""/>
+        <sphere filter="on" size="5" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="113">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Moldova" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="114">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Mongolia" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="115">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Montenegro" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="116">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Morocco" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="117">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Mozambique" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="118">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Myanmar" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="119">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Namibia" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="120">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Nauru" size="10" size_name=""/>
+        <sphere filter="on" size="5" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="121">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Nepal" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="122">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Netherlands" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="123">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="New Zealand" size="10" size_name=""/>
+        <sphere filter="on" size="5" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="124">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Nicaragua" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="125">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Niger" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="126">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Nigeria" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="127">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Norway" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="128">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Oman" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="129">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Pakistan" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="130">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Palau" size="10" size_name=""/>
+        <sphere filter="on" size="5" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="131">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Panama" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="132">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Papua New Guinea" size="10" size_name=""/>
+        <sphere filter="on" size="5" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="133">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Paraguay" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="134">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Peru" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="135">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Philippines" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="136">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Poland" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="137">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Portugal" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="138">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Puerto Rico" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="139">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Qatar" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="140">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Romania" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="141">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Russia" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="142">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Rwanda" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="143">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Samoa" size="10" size_name=""/>
+        <sphere filter="on" size="5" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="144">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="San Marino" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="145">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="São Tomé and Príncipe" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="146">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Saudi Arabia" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="147">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Senegal" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="148">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Serbia" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="149">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Seychelles" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="150">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Sierra Leone" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="151">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Singapore" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="152">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Slovak Republic" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="153">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Slovenia" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="154">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Solomon Islands" size="10" size_name=""/>
+        <sphere filter="on" size="5" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="155">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Somalia" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="156">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="South Africa" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="157">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="South Sudan" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="158">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Spain" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="159">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Sri Lanka" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="160">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="St. Kitts and Nevis" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="161">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="St. Lucia" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="162">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="St. Vincent and the Grenadines" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="163">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Sudan" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="164">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Suriname" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="165">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Swaziland" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="166">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Sweden" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="167">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Switzerland" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="168">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Syria" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="169">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Taiwan Province of China" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="170">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Tajikistan" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="171">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Tanzania" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="172">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Thailand" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="173">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Timor-Leste" size="10" size_name=""/>
+        <sphere filter="on" size="5" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="174">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Togo" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="175">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Tonga" size="10" size_name=""/>
+        <sphere filter="on" size="5" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="176">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Trinidad and Tobago" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="177">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Tunisia" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="178">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Turkey" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="179">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Turkmenistan" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="180">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Tuvalu" size="10" size_name=""/>
+        <sphere filter="on" size="5" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="181">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Uganda" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="182">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Ukraine" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="183">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="United Arab Emirates" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="184">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="United Kingdom" size="10" size_name=""/>
+        <sphere filter="on" size="4" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="185">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="United States" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="186">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Uruguay" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="187">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Uzbekistan" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="188">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Vanuatu" size="10" size_name=""/>
+        <sphere filter="on" size="5" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="189">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Venezuela" size="10" size_name=""/>
+        <sphere filter="on" size="2" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="190">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Vietnam" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="191">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Yemen" size="10" size_name=""/>
+        <sphere filter="on" size="3" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="192">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Zambia" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+  <foreach id="193">
+    <Grouper1 margin="10.0" type="G1">
+      <Connector0 type="C1">
+        <text contents="Zimbabwe" size="10" size_name=""/>
+        <sphere filter="on" size="1" size_name="c_region"/>
+      </Connector0>
+    </Grouper1>
+  </foreach>
+</Grouper0>

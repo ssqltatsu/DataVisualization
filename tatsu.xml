@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Connector0 type="C1">
+  <Connector1 type="C1">
+    <sphere filter="" size="1000" size_name="" spsize_name="1000">
+      <filter f_pattern="checkbox" f_target="w.wind" f_value="2.5999999"/>
+      <filter f_pattern="slider" f_target="month" f_value="8"/>
+    </sphere>
+    <sphere filter="" size="100" size_name="" spsize_name="100">
+      <filter f_pattern="checkbox" f_target="w.wind" f_value="2.6"/>
+    </sphere>
+  </Connector1>
+</Connector0>
