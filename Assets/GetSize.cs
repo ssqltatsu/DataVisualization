@@ -10,10 +10,7 @@ public class GetSize : MonoBehaviour
 	{
 		Size size = gameObject.GetComponent<Size>();
 		Vector3 result;
-		if (size == null && gameObject.transform.childCount == 0) {
-                        result = new Vector3(0, 0, 0);
-                }
-                else if (size == null && gameObject.transform.childCount == 1) {
+                if (size == null && gameObject.transform.childCount == 1) {
                         result = Size(gameObject.transform.GetChild(0).gameObject);
                 }
                 else if (size == null)
@@ -29,12 +26,13 @@ public class GetSize : MonoBehaviour
 			else if (gameObject.GetComponent<Mesh>())
 			{
 				result = gameObject.GetComponent<Mesh>().bounds.size;
-			}
+			} else if (gameObject.transform.childCount == 0) {
+                                result = new Vector3(0, 0, 0);
+                        }
 			else
 			{
 				result = new Vector3(GetSizeXParent(gameObject), GetSizeYParent(gameObject), 
 					GetSizeZParent(gameObject));
-				result = size.vectors;
 			}
 			size = gameObject.AddComponent<Size>();
                         size.vectors = result;
