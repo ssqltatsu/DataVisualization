@@ -10,7 +10,13 @@ public class GetSize : MonoBehaviour
 	{
 		Size size = gameObject.GetComponent<Size>();
 		Vector3 result;
-		if (size == null)
+		if (size == null && gameObject.transform.childCount == 0) {
+                        result = new Vector3(0, 0, 0);
+                }
+                else if (size == null && gameObject.transform.childCount == 1) {
+                        result = Size(gameObject.transform.GetChild(0).gameObject);
+                }
+                else if (size == null)
 		{
 			if (gameObject.GetComponent<Renderer>())
 			{
@@ -24,21 +30,14 @@ public class GetSize : MonoBehaviour
 			{
 				result = gameObject.GetComponent<Mesh>().bounds.size;
 			}
-			else if (gameObject.transform.childCount == 1)
-			{
-				result = Size(gameObject.transform.GetChild(0).gameObject);
-			}
-			else if (gameObject.transform.childCount == 0)
-			{
-				result = new Vector3(0, 0, 0);
-			}
 			else
 			{
-				size = gameObject.AddComponent<Size>();
-				size.vectors = new Vector3(GetSizeXParent(gameObject), GetSizeYParent(gameObject), 
+				result = new Vector3(GetSizeXParent(gameObject), GetSizeYParent(gameObject), 
 					GetSizeZParent(gameObject));
 				result = size.vectors;
 			}
+			size = gameObject.AddComponent<Size>();
+                        size.vectors = result;
 		}
 		else
 		{
@@ -50,108 +49,99 @@ public class GetSize : MonoBehaviour
 
 	static float GetSizeXParent (GameObject gameObjectParent)
 	{
-		//GameObject[] childrenGameObjects = gameObjectTemp.
-		GameObject firstGameObject = null, lastGameObject = null;
-		firstGameObject = gameObjectParent.transform.GetChild (0).gameObject;
-		lastGameObject = gameObjectParent.transform.GetChild (1).gameObject;
+		Transform firstObject = null, lastObject = null;
+		firstObject = gameObjectParent.transform.GetChild (0);
+		lastObject = gameObjectParent.transform.GetChild (1);
 		float sizeX = 0;
 		foreach (Transform child in gameObjectParent.transform) {
-			if (child.transform.position.x < firstGameObject.transform.position.x) {
-				firstGameObject = child.gameObject;
+			if (child.position.x < firstObject.position.x) {
+				firstObject = child;
 				continue;
 			}
 
-			if (child.transform.position.x > lastGameObject.transform.position.x) {
-				lastGameObject = child.gameObject;
+			if (child.position.x > lastObject.position.x) {
+				lastObject = child;
 				continue;
 			}
 
-			if (child.transform.position.x == firstGameObject.transform.position.x && Size (child.gameObject).x > Size (firstGameObject).x) {
-				firstGameObject = child.gameObject;
+			if (child.position.x == firstObject.position.x && Size (child.gameObject).x > Size (firstObject.gameObject).x) {
+				firstObject = child;
 				continue;
 			}
 
-			if (child.transform.position.x == lastGameObject.transform.position.x && Size (child.gameObject).x > Size (lastGameObject).x) {
-				lastGameObject = child.gameObject;
+			if (child.position.x == lastObject.position.x && Size (child.gameObject).x > Size (lastObject.gameObject).x) {
+				lastObject = child;
 				continue;
 			} 
 		}
 
-		if ((firstGameObject != null) && (lastGameObject != null)) {
-			sizeX = (lastGameObject.transform.position.x - firstGameObject.transform.position.x) + Size (lastGameObject).x / 2 + Size (firstGameObject).x / 2;
-		}
+		sizeX = (lastObject.position.x - firstObject.position.x) + Size (lastObject.gameObject).x / 2 + Size (firstObject.gameObject).x / 2;
 
 		return sizeX;
 	}
 
 	static float GetSizeYParent (GameObject gameObjectParent)
 	{
-		//GameObject[] childrenGameObjects = gameObjectTemp.
-		GameObject firstGameObject = null, lastGameObject = null;
-		firstGameObject = gameObjectParent.transform.GetChild (0).gameObject;
-		lastGameObject = gameObjectParent.transform.GetChild (1).gameObject;
+		Transform firstObject = null, lastObject = null;
+		firstObject = gameObjectParent.transform.GetChild (0);
+		lastObject = gameObjectParent.transform.GetChild (1);
 		float sizeY = 0;
 		foreach (Transform child in gameObjectParent.transform) {
-			if (child.transform.position.y < firstGameObject.transform.position.y) {
-				firstGameObject = child.gameObject;
+			if (child.position.y < firstObject.position.y) {
+				firstObject = child;
 				continue;
 			}
 
-			if (child.transform.position.y > lastGameObject.transform.position.y) {
-				lastGameObject = child.gameObject;
+			if (child.position.y > lastObject.position.y) {
+				lastObject = child;
 				continue;
 			}
 
-			if (child.transform.position.y == firstGameObject.transform.position.y && Size (child.gameObject).y > Size (firstGameObject).y) {
-				firstGameObject = child.gameObject;
+			if (child.position.y == firstObject.position.y && Size (child.gameObject).y > Size (firstObject.gameObject).y) {
+				firstObject = child;
 				continue;
 			}
 
-			if (child.transform.position.y == lastGameObject.transform.position.y && Size (child.gameObject).y > Size (lastGameObject).y) {
-				lastGameObject = child.gameObject;
+			if (child.position.y == lastObject.position.y && Size (child.gameObject).y > Size (lastObject.gameObject).y) {
+				lastObject = child;
 				continue;
 			} 
 		}
 
-		if ((firstGameObject != null) && (lastGameObject != null)) {
-			sizeY = (lastGameObject.transform.position.y - firstGameObject.transform.position.y) + Size (lastGameObject).y / 2 + Size (firstGameObject).y / 2;
-		}
+		sizeY = (lastObject.position.y - firstObject.position.y) + Size (lastObject.gameObject).y / 2 + Size (firstObject.gameObject).y / 2;
 
 		return sizeY;
 	}
 
 	static float GetSizeZParent (GameObject gameObjectParent)
 	{
-		//GameObject[] childrenGameObjects = gameObjectTemp.
-		GameObject firstGameObject = null, lastGameObject = null;
-		firstGameObject = gameObjectParent.transform.GetChild (0).gameObject;
-		lastGameObject = gameObjectParent.transform.GetChild (1).gameObject;
+		Transform firstObject = null, lastObject = null;
+		firstObject = gameObjectParent.transform.GetChild (0);
+		lastObject = gameObjectParent.transform.GetChild (1);
 		float sizeZ = 0;
 		foreach (Transform child in gameObjectParent.transform) {
-			if (child.transform.position.z < firstGameObject.transform.position.z) {
-				firstGameObject = child.gameObject;
+			if (child.position.z < firstObject.position.z) {
+				firstObject = child;
 				continue;
 			}
 
-			if (child.transform.position.z > lastGameObject.transform.position.z) {
-				lastGameObject = child.gameObject;
+			if (child.position.z > lastObject.position.z) {
+				lastObject = child;
 				continue;
 			}
 
-			if (child.transform.position.z == firstGameObject.transform.position.z && Size (child.gameObject).z > Size (firstGameObject).z) {
-				firstGameObject = child.gameObject;
+			if (child.position.z == firstObject.position.z && Size (child.gameObject).z > Size (firstObject.gameObject).z) {
+				firstObject = child;
 				continue;
 			}
 
-			if (child.transform.position.z == lastGameObject.transform.position.z && Size (child.gameObject).z > Size (lastGameObject).z) {
-				lastGameObject = child.gameObject;
+			if (child.position.z == lastObject.position.z && Size (child.gameObject).z > Size (lastObject.gameObject).z) {
+				lastObject = child;
 				continue;
 			} 
 		}
 
-		if ((firstGameObject != null) && (lastGameObject != null)) {
-			sizeZ = (lastGameObject.transform.position.z - firstGameObject.transform.position.z) + Size (lastGameObject).z / 2 + Size (firstGameObject).z / 2;
-		}
+		sizeZ = (lastObject.position.z - firstObject.position.z) + Size (lastObject.gameObject).z / 2 + Size (firstObject.gameObject).z / 2;
 
 		return sizeZ;
 	}
