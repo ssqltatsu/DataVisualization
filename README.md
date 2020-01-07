@@ -57,3 +57,5 @@ generate Unity_dv
 from cities c where c.year = 2018 and c.month =8
 
 **クエリ説明**
+
+＊データは実験用の物です。実際の情報とは異なる物なのでご了承下さい。
