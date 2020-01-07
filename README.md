@@ -47,7 +47,7 @@ generate Unity_dv
 			),
 			"blue", 14.1, "red", 33.7, c.temperature
 		)
-	],
+	]◯
 	!object("text", c.name, 50)
 ]%@{margin=200}
 ,
