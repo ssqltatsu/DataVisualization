@@ -53,7 +53,7 @@ generate Unity_dv
 ,
 [null((asc)c.day),[position(move(move({object("text", c.name, 5)!color_gradient(move(scene(filter(object("sphere", c.population/10000), c.name@{name="map_cityname"}, "checkbox"), "wind", c.id), 0, c.population/10000, 0),"blue",14.1,"red",33.7,c.temperature)}, 0, c.day * 300, 0),
 		c.longitude * 40, 0, c.latitude * 40), 0, 0, 0)]!
-]%
+]#
 from cities c where c.year = 2018 and c.month =8
 
 **クエリ説明**
