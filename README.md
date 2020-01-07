@@ -21,7 +21,7 @@ LeftCommand or LeftControl + ↑ x軸中心に時計回りに回転
 LeftCommand or LeftControl + ↓ x軸中心に反時計回りに回転
 
 詳細表示
-LeftCommand or LeftControl + オブジェクトにカーソルを重ねると
+LeftCommand or LeftControl + オブジェクトにカーソルを重ねると詳細が表示されます
 
 **クエリ**
 generate Unity_dv
