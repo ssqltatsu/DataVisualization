@@ -11,13 +11,13 @@
      1. 終了後, Unityを起動  
 
 - 本システムの導入
-    1. 本システムをzipでダウンロードもしくはgit clone
-     1. Unity Hubを開き、プロジェクトからリストに追加を選択
-     1. ダウンロードしてきたプロジェクト(ディレクトリ)を開く(DataVisualization-master)
-     1. 追加したプロジェクトを開く(最初は開くまでに時間がかかります。おやつを用意して気長にお待ちください)
-     <img width="722" alt="スクリーンショット 2020-01-08 19 18 54" src="https://user-images.githubusercontent.com/25918044/71970310-c8bd3300-324b-11ea-853a-7fe9edc8b86a.png">
-     1. Unityの画面が開いたら、▷(スタート)ボタンをクリックで開始
-     <img width="866" alt="スクリーンショット 2020-01-08 19 22 21" src="https://user-images.githubusercontent.com/25918044/71970561-45e8a800-324c-11ea-9ba5-5d3cc485655b.png">
+ 1. 本システムをzipでダウンロードもしくはgit clone
+ 1. Unity Hubを開き、プロジェクトからリストに追加を選択
+ 1. ダウンロードしてきたプロジェクト(ディレクトリ)を開く(DataVisualization-master)
+ 1. 追加したプロジェクトを開く(最初は開くまでに時間がかかります。おやつを用意して気長にお待ちください)
+ <img width="722" alt="スクリーンショット 2020-01-08 19 18 54" src="https://user-images.githubusercontent.com/25918044/71970310-c8bd3300-324b-11ea-853a-7fe9edc8b86a.png">
+ 1. Unityの画面が開いたら、▷(スタート)ボタンをクリックで開始
+ <img width="866" alt="スクリーンショット 2020-01-08 19 22 21" src="https://user-images.githubusercontent.com/25918044/71970561-45e8a800-324c-11ea-9ba5-5d3cc485655b.png">
 
 
 ## 操作説明  
