@@ -7,7 +7,7 @@
 [Unity Hubダウンロードサイト](https://unity3d.com/jp/get-unity/download)
 
 ## 操作説明  
-移動  
+**移動**  
 キーボードの矢印で移動。  
 - ↑ y軸正の方向に移動
 - ↓ y軸負の方向に移動
@@ -15,22 +15,22 @@
 - ← x軸負の方向に移動
 - RightCommand or RightControl + ↑ z軸正の方向に移動
 - RightCommand or RightControl + ↓ z軸負の方向に移動  
-上記 + 右Shiftで移動が少し速くなる。
+*[上記 + 右Shiftで移動が少し速くなる。]
 
-回転  
+**回転**  
 - 矢印+LeftCommand or LeftControlでカメラが回転
 - LeftCommand or LeftControl + → y軸中心に時計回りに回転
 - LeftCommand or LeftControl + ← y軸中心に反時計回りに回転
 - LeftCommand or LeftControl + ↑ x軸中心に時計回りに回転
 - LeftCommand or LeftControl + ↓ x軸中心に反時計回りに回転
 
-詳細表示  
+**詳細表示**  
 - LeftCommand or LeftControl + オブジェクトにカーソルを重ねると詳細が表示されます
 
-シーン遷移  
+**シーン遷移**  
 - クエリでscene関数がついているゲームオブジェクトをクリックすると, シーンが遷移します
 
-フィルタリング, カメラボタン
+**フィルタリング, カメラボタン**
 - 画面右上プルダウンをクリックすると, フィルターとカメラボタンが利用できます
 
 ## クエリ
