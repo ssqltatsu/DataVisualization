@@ -1,9 +1,9 @@
 # SuperSQL3DVS(デモ・実験用)
 ## 概要
-本システムはSuperSQLとUnityとを組み合わせて, 簡潔なクエリ記述のみで3次元空間にデータ可視化を可能とする。  
-SuperSQLについては[SuperSQL](https://github.com/ToyamaLab/NewSSQL)を参照。  
+本システムはSuperSQLとUnityとを組み合わせて, 簡潔なクエリ記述のみで3次元空間にデータ可視化を可能とする.  
+SuperSQLについては[SuperSQL](https://github.com/ToyamaLab/NewSSQL)を参照.  
 
-＊今回はデモ用のものなので, 事前にSuperSQLクエリから作成されたファイルを用いたデータ可視化を体験するものとなっています。
+＊今回はデモ用のものなので, 事前にSuperSQLクエリから作成されたファイルを用いたデータ可視化を体験するものとなっている.
 
 ## 導入手順
 - Unityのダウンロード  
@@ -105,6 +105,7 @@ generate Unity_dv
 ]%  
 from cities c where c.year = 2018 and c.month =8  
 ```
-## クエリ説明
+## クエリ説明  
+1つめのクエリ例では気温, 人口等の情報を同様のチャンネルへの割り当てを行なったオブジェクト群を３種類のレイアウトで可視化する.  
 
 ＊データは実験用の物です。実際の情報とは異なる物なのでご了承下さい。
