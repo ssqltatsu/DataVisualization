@@ -10,7 +10,7 @@
  ![For Image](https://user-images.githubusercontent.com/25918044/71969894-eb028100-324a-11ea-975a-3ea3c91c2ba8.png)
 
 - 本システムの導入
- 1. 本システムをzipでダウンロードもしくはgit clone
+ 1. 右上のgit Clone or Downloadボタンからダウンロード
  1. Unity Hubを開き、プロジェクトからリストに追加を選択
  1. ダウンロードしてきたプロジェクト(ディレクトリ)を開く(DataVisualization-master)
  1. 追加したプロジェクトを開く(最初は開くまでに時間がかかります。おやつを用意して気長にお待ちください)
