@@ -4,8 +4,7 @@
 
 ## 導入手順
 
-<img width="889" alt="スクリーンショット 2020-01-08 18 35 09" src="https://user-images.githubusercontent.com/25918044/71966866-b50ece00-3245-11ea-8b66-93b978690523.png">
-[Unity Hubダウンロードサイト](https://unity3d.com/jp/get-unity/download)
+
 
 ## 操作説明  
 **移動**  
@@ -33,6 +32,8 @@
 
 **フィルタリング, カメラボタン**
 - 画面右上プルダウンをクリックすると, フィルターとカメラボタンが利用できます
+<img width="889" alt="スクリーンショット 2020-01-08 18 35 09" src="https://user-images.githubusercontent.com/25918044/71966866-b50ece00-3245-11ea-8b66-93b978690523.png">
+[Unity Hubダウンロードサイト](https://unity3d.com/jp/get-unity/download)
 
 ## クエリ
 ```
