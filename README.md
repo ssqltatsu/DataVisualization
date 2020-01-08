@@ -3,6 +3,18 @@
 
 
 ## 導入手順
+- Unityのダウンロード
+[Unity Hubダウンロードサイト](https://unity3d.com/jp/get-unity/download)
+からUnity Hubをダウンロード
+手順に従ってインストール
+Unity Hubのインストールから最新版のUnity(Unity 2019.2.17f1)をインストール(時間がかかります)
+終了後, Unityを起動
+
+本システムをzipでダウンロードもしくはgit clone
+Unity Hubが開くので、プロジェクトからリストに追加を選択
+ダウンロードしてきたプロジェクト(ディレクトリ)を開く(DataVisualization-master)
+追加したプロジェクトを開く(最初は開くまでに時間がかかります。おやつを用意して気長にお待ちください)
+Unityの画面が開いたら、▷(スタート)ボタンをクリックで開始
 
 
 
@@ -33,7 +45,6 @@
 **フィルタリング, カメラボタン**
 - 画面右上プルダウンをクリックすると, フィルターとカメラボタンが利用できます
 <img width="889" alt="スクリーンショット 2020-01-08 18 35 09" src="https://user-images.githubusercontent.com/25918044/71966866-b50ece00-3245-11ea-8b66-93b978690523.png">
-[Unity Hubダウンロードサイト](https://unity3d.com/jp/get-unity/download)
 
 ## クエリ
 ```
