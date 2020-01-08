@@ -1,12 +1,12 @@
 # SuperSQL3DVS(デモ・実験用)
-**概要**
+## 概要
 
 
-**導入手順**
+## 導入手順
 
 [Unity Hubダウンロードサイト](https://unity3d.com/jp/get-unity/download)
 
-**操作説明**  
+## 操作説明  
 移動  
 キーボードの矢印で移動。  
 - ↑ y軸正の方向に移動
@@ -33,7 +33,7 @@
 フィルタリング, カメラボタン
 - 画面右上プルダウンをクリックすると, フィルターとカメラボタンが利用できます
 
-**クエリ**
+## クエリ
 
 generate Unity_dv  
 [null(c.name),  
@@ -63,6 +63,6 @@ generate Unity_dv
 		c.longitude * 40, 0, c.latitude * 40), 0, 0, 0)]!  
 ]%  
 from cities c where c.year = 2018 and c.month =8  
-**クエリ説明**
+## クエリ説明
 
 ＊データは実験用の物です。実際の情報とは異なる物なのでご了承下さい。
