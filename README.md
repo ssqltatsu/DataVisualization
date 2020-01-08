@@ -3,18 +3,19 @@
 
 
 ## 導入手順
-- Unityのダウンロード
-[Unity Hubダウンロードサイト](https://unity3d.com/jp/get-unity/download)
-からUnity Hubをダウンロード
-手順に従ってインストール
-Unity Hubのインストールから最新版のUnity(Unity 2019.2.17f1)をインストール(時間がかかります)
-終了後, Unityを起動
+- Unityのダウンロード  
+1. [Unity Hubダウンロードサイト](https://unity3d.com/jp/get-unity/download)  
+からUnity Hubをダウンロード  
+1. 手順に従ってインストール  
+1. Unity Hubのインストールから最新版のUnity(Unity 2019.2.17f1)をインストール(時間がかかります)  
+1. 終了後, Unityを起動  
 
-本システムをzipでダウンロードもしくはgit clone
-Unity Hubが開くので、プロジェクトからリストに追加を選択
-ダウンロードしてきたプロジェクト(ディレクトリ)を開く(DataVisualization-master)
-追加したプロジェクトを開く(最初は開くまでに時間がかかります。おやつを用意して気長にお待ちください)
-Unityの画面が開いたら、▷(スタート)ボタンをクリックで開始
+- 本システムの導入
+1. 本システムをzipでダウンロードもしくはgit clone
+1. Unity Hubを開き、プロジェクトからリストに追加を選択
+1. ダウンロードしてきたプロジェクト(ディレクトリ)を開く(DataVisualization-master)
+1. 追加したプロジェクトを開く(最初は開くまでに時間がかかります。おやつを用意して気長にお待ちください)
+1. Unityの画面が開いたら、▷(スタート)ボタンをクリックで開始
 
 
 
