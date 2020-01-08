@@ -15,7 +15,7 @@
 - ← x軸負の方向に移動
 - RightCommand or RightControl + ↑ z軸正の方向に移動
 - RightCommand or RightControl + ↓ z軸負の方向に移動  
-*[上記 + 右Shiftで移動が少し速くなる。]
+上記 + 右Shiftで移動が少し速くなる。
 
 **回転**  
 - 矢印+LeftCommand or LeftControlでカメラが回転
