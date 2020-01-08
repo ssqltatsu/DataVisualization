@@ -53,7 +53,7 @@ SuperSQLについては[SuperSQL](https://github.com/ToyamaLab/NewSSQL)を参照
 - 画面右上プルダウンをクリックすると, フィルターとカメラボタンが利用できます
 <img width="889" alt="スクリーンショット 2020-01-08 18 35 09" src="https://user-images.githubusercontent.com/25918044/71966866-b50ece00-3245-11ea-8b66-93b978690523.png">
 
-## クエリ
+## クエリ1
 ```
 generate Unity_dv  
 [null(c.name),  
@@ -104,6 +104,23 @@ generate Unity_dv
 	)]!  
 ]%  
 from cities c where c.year = 2018 and c.month =8  
+```
+## クエリ2
+```
+foreach c.id
+generate Unity_dv
+[Object("text", c.year, 10),
+	[Object("text", c.month || "月", 10), 
+		[null((asc)c.day), Object("text", c.day, 10), 
+			color_gradient(
+				rotate(asset("Windmill", c.population/5000), 0, 0, c.wind * 10)@{target="Fan"},
+				"blue", 14.1, "red", 33.7, c.temperature
+			)
+		],
+	]!
+	!Object("text",c.name,10)
+]%@{margin=200}
+from cities c 
 ```
 ## クエリ説明  
 1つめのクエリ例では気温, 人口等の情報を同様のチャンネルへの割り当てを行なったオブジェクト群を３種類のレイアウトで可視化する.  
